@@ -1,0 +1,8 @@
+{
+  "name": "jltzbrg_personal_site",
+  "version": "1.0.0",
+  "description": "My personal simple webpage",
+  "main": "index.html",
+  "author": "Julio Litzenberg",
+  "license": "MIT"
+}
