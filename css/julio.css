@@ -33,3 +33,18 @@ html {
 .social a:hover {
   color: #fff;
 }
+
+
+.legal {
+  padding-top: 10px;
+}
+
+.legal li {
+  color: #fff;
+  display: inline;
+}
+
+.legal a:hover {
+  color: #00bcf1;
+}
+
