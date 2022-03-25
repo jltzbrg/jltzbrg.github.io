@@ -38,6 +38,10 @@ html {
   color: #b6e5cc;
 }
 
+.descriptiion a:hover {
+  color: #50509c;
+}
+
 .legal {
   padding-top: 10px;
 }
